@@ -1,0 +1,8 @@
+name = "SoftOptimisers"
+uuid = "768800b6-af41-427f-aca6-6c9b3ebc2520"
+authors = ["K11BN367 <alexander592beckmann@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Optimisers = "3bd65402-5787-11e9-1adc-39752487f4e2"
+SoftBase = "af0a1cfc-538f-4bb2-b0da-fbf558d56e16"
