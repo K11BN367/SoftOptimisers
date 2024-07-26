@@ -5,6 +5,7 @@ module SoftOptimisers
     #'Argument'Dependency'Function'Trait'1
     include!(SoftOptimisers, @c__URI(SoftBase.Directory, a__Path("setup/'Function'2.jl")))
     include!(SoftOptimisers, @c__URI(SoftBase.Directory, a__Path("'Trait'2.jl")))
+    include!(SoftOptimisers, @c__URI(SoftBase.Directory, a__Path("adjust!/'Function'2.jl")))
     #'Value'1
     include!(SoftOptimisers, @c__URI(SoftBase.Directory, a__Path("Descent/'Value'1.jl")))
     include!(SoftOptimisers, @c__URI(SoftBase.Directory, a__Path("Gradient_Accumulation/'Value'1.jl")))
